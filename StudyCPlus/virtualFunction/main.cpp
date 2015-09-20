@@ -28,6 +28,5 @@ int main()
    Grandson onegrand;
 
    char* p = "ABB";
-   *p = 'X';
 
 }
