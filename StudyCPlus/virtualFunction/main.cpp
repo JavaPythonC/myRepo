@@ -29,4 +29,6 @@ int main()
 
    char* p = "ABB";
 
+   cout << "fake" << endl;
+
 }
