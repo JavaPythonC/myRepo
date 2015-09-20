@@ -1,0 +1,13 @@
+package com.jingucao.file1;
+
+import java.io.File;
+
+public class File1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        File file = new File("1.txt");
+        file.is
+	}
+
+}
